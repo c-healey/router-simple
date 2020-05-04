@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/router-simple/static/css/main.ed246ef6.chunk.css",
+    "main.js": "/router-simple/static/js/main.3dc5e663.chunk.js",
+    "main.js.map": "/router-simple/static/js/main.3dc5e663.chunk.js.map",
+    "runtime-main.js": "/router-simple/static/js/runtime-main.35843cde.js",
+    "runtime-main.js.map": "/router-simple/static/js/runtime-main.35843cde.js.map",
+    "static/js/2.f2316ab3.chunk.js": "/router-simple/static/js/2.f2316ab3.chunk.js",
+    "static/js/2.f2316ab3.chunk.js.map": "/router-simple/static/js/2.f2316ab3.chunk.js.map",
+    "index.html": "/router-simple/index.html",
+    "precache-manifest.b346e1bd3ade26d0fd8976e76826116b.js": "/router-simple/precache-manifest.b346e1bd3ade26d0fd8976e76826116b.js",
+    "service-worker.js": "/router-simple/service-worker.js",
+    "static/css/main.ed246ef6.chunk.css.map": "/router-simple/static/css/main.ed246ef6.chunk.css.map",
+    "static/js/2.f2316ab3.chunk.js.LICENSE.txt": "/router-simple/static/js/2.f2316ab3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35843cde.js",
+    "static/js/2.f2316ab3.chunk.js",
+    "static/css/main.ed246ef6.chunk.css",
+    "static/js/main.3dc5e663.chunk.js"
+  ]
+}
